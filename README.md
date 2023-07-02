@@ -11,4 +11,4 @@ VDD/VCC		    3.3v		  3.3v
 GNS		        GND		    GND
 SCK		        D1		    A5
 SDA		        D2		    A4
-  
+
